@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif");
       background-size: cover;
       color: white;
     }
@@ -38,3 +38,10 @@
         display: block;
       }
     }
+#profile {
+  height:150px;
+  width:175px;
+}
+body {
+  font-family: 'Annie Use Your Telescope', cursive;
+}
